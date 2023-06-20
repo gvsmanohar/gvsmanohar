@@ -9,7 +9,7 @@ Let's connect and chat about all things tech and data - I'd love to hear from yo
 
 **Tech I am using and learning:**
 
-![My Skills](https://skillicons.dev/icons?i=python,machine&learning,tableau,R,pandas,numpy,mysql,html,css,git,github,vscode,jenkins,jira,neovim&theme=dark&perline=9)
+![My Skills](https://skillicons.dev/icons?i=python,mysql,html,css,git,github,vscode,neovim&theme=dark&perline=9)
 
 
 **Connect with me:**
