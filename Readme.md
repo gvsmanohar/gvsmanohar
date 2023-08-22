@@ -9,7 +9,7 @@
 
 # 🚀 About Me
 <img align="right" src="https://i.imgur.com/840b0PX.gif" width="329">
-<p align="left">Hey my name is Venkata Sai Manohar Gedela, a Data enthusiast and data analyst postgraduate at <a href="https://www.sheffield.ac.uk/">The University of Sheffield</a>. I'm passionate about staying ahead of the curve when it comes to the latest technologies and spend my days breaking and creating code. Currently, I am Wworking as a Tableau Developer at HSBC. When I'm not knee-deep in tech work, I like to unwind by playing football, gaming with my friends, or spending quality time with my furry companions. 
+<p align="left">Hey my name is Venkata Sai Manohar Gedela, a Data enthusiast and data analyst postgraduate at <a href="https://www.sheffield.ac.uk/">The University of Sheffield</a>. Extremely motivated to constantly develop my skills and grow professionally, a teamwork-oriented and responsible Data Analyst graduate with significant experience in increasing comprehension of reports and presentations. I am confident in my ability to come up with interesting ideas. I'm knee-deep in tech work, I like to unwind by playing football, gaming with my friends. 
 
 Let's connect and chat about all things tech and data - I'd love to hear from you!</br>
 </p>
