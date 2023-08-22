@@ -1,4 +1,4 @@
-## Hi there, I'm [Nick!](https://nickmccullum.com/) 👋
+## Hi there, I'm Manohar 👋
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gvsmanohar/)
 [![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter&logoColor=white)](https://twitter.com/gvs_manohar1704)
