@@ -1,8 +1,15 @@
+## Hi there, I'm [Nick!](https://nickmccullum.com/) 👋
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gvsmanohar/)
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter&logoColor=white)](https://twitter.com/gvs_manohar1704)
+[![Website](https://img.shields.io/badge/-Tableau-blue?style=flat&logo=website&logoColor=white)](https://public.tableau.com/app/profile/venkata.sai.manohar.gedela)
+<br/>
+
 <img src="https://camo.githubusercontent.com/d348976f3419cd09cf731439742c1b889e3f3cd8e04b2e72e7a219d85b049c37/68747470733a2f2f636c6f75642d6c66697532373079302d6861636b2d636c75622d626f742e76657263656c2e6170702f30666f6f7465722e706e67" >
 
 # 🚀 About Me
 <img align="right" src="https://i.imgur.com/840b0PX.gif" width="329">
-<p align="left">Hey there! I'm Venkata Sai Manohar Gedela, a Data enthusiast and data analyst postgraduate at <a href="https://www.sheffield.ac.uk/">The University of Sheffield</a>. I'm passionate about staying ahead of the curve when it comes to the latest technologies and spend my days breaking and creating code. Currently, I am Wworking as a Tableau Developer at HSBC. When I'm not knee-deep in tech work, I like to unwind by playing football, gaming with my friends, or spending quality time with my furry companions. 
+<p align="left">Hey my name is Venkata Sai Manohar Gedela, a Data enthusiast and data analyst postgraduate at <a href="https://www.sheffield.ac.uk/">The University of Sheffield</a>. I'm passionate about staying ahead of the curve when it comes to the latest technologies and spend my days breaking and creating code. Currently, I am Wworking as a Tableau Developer at HSBC. When I'm not knee-deep in tech work, I like to unwind by playing football, gaming with my friends, or spending quality time with my furry companions. 
 
 Let's connect and chat about all things tech and data - I'd love to hear from you!</br>
 </p>
